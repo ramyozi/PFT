@@ -1,0 +1,3 @@
+Nom;Prénom;Date de naissance;Adresse;Sexe;Numéro de téléphone;Numéro de sécurité sociale;Groupe sanguin;Mode de vie;Antécédents familiaux;Examens radiologiques;Analyses médicales;Maladies chroniques;Médicaments en cours;Allergie médicamenteuse
+Benali;Ahmed;15/06/1980;14 Rue des Oliviers, Alger;M;0555123456;123456789;A+;Non-fumeur,Occasionnellement;Hypertension;"Radiographie:image1.png, TDM:image2.png";Analyse de sang,Urine;Diabète;Aspirine;false
+Khaled;Nora;20/03/1975;8 Avenue des Jasmins, Oran;F;0555987654;987654321;B-;Fumeur,Non-buveur;Aucun;"IRM:image3.png, Test de foie:image4.png";Test de cholestérol,Test de foie;Hypertension;Lisinopril;true,Pénicilline
